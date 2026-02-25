@@ -4,9 +4,9 @@ Este repositório contém meus **exercícios de programação em C**, feitos dur
 
 ## Estrutura do repositório
 
-- `Exercicio 01/` – Primeiro exercício  
-- `Exercicio 02/` – Segundo exercício  
-- `Exercicio 03/` – Terceiro exercício  
+- `Exercicio01/` – Primeiro exercício  
+- `Exercicio02/` – Segundo exercício  
+- `Exercicio03/` – Terceiro exercício  
 - ...  
 *(cada pasta contém o arquivo `.c` correspondente)*
 
