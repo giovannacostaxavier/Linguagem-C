@@ -1,4 +1,4 @@
-
+//DIGITANDO UM NÚMERO FLOAT E MOSTRANDO COM 2 CASAS DÉCIMAIS
 #include <stdio.h>
 
 int main(){
