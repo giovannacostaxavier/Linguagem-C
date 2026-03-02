@@ -1,4 +1,4 @@
-
+//EXERCICIO PEDINDO UM NÚMERO E MOSTRANDO NA TELA
 #include <stdio.h>
 
 int main(){
@@ -7,4 +7,4 @@ int main(){
     scanf("%d",&num);
     printf("O número digitado é : %d",num);
     return 0;
-}
+} 
